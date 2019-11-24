@@ -1,0 +1,48 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+a,
+p,
+div
+span,
+pre,
+code,s
+small,
+caption,
+button, 
+input, 
+select, 
+textarea {
+  font-family: 'Open Sans', sans-serif;
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.float-right {
+  float: right !important;
+}
+.block {
+  width: 100%;
+}
+
+/* SPACE */
+.mr2 {
+  margin-right: .5rem !important
+}
+
+.el-avatar {
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+}
